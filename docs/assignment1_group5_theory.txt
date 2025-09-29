@@ -1,1 +1,8 @@
+Linux kernel vs shell:
+The kernel is the core part of the operating system that controls hardware and system resources. The shell is a program that lets users type commands to interact with the kernel.
 
+Absolute vs relative path:
+An absolute path shows the full location of a file starting from the root / (for example, /home/group5/docs). A relative path shows the location based on where you are currently in the system (for example, ../notes).
+
+Core components of Linux:
+The main components are: the kernel, the shell, system libraries, and system utilities.
